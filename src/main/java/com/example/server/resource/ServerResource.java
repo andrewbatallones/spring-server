@@ -1,6 +1,5 @@
 package com.example.server.resource;
 
-import com.example.server.enumeration.Status;
 import com.example.server.model.Response;
 import com.example.server.model.Server;
 import com.example.server.service.implementation.ServerServiceImplementation;
